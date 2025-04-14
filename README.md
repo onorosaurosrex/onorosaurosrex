@@ -5,11 +5,11 @@ I'm a pasionate generalist and problem solver on the path to web developing.
 I'm from Colombia.
 
 ## Contact me
-I'm 50, I'm trained in electronics and been part of the live entertainment industry.
+I'm 51, I'm trained in electronics and been part of the live entertainment industry.
 Today coding toward web development.
 
 ## Languages
-Python, Javascript, CSS, HTML, Java.
+Java Javascript, CSS, HTML, Python.
 
 ## Hobbies
 - Music
@@ -18,11 +18,9 @@ Python, Javascript, CSS, HTML, Java.
 - CHess
 
 ## Technologies
-- Back-End: Node.js - Linux
+- Back-End: Java / Spring
 - Front-End: HTML/CSS/Javascript
 
 ## Skills
 - Problem sovling
 - C2 English EF cert
-- 100+ words per minute in English or Spanish
-- 
